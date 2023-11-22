@@ -1,0 +1,97 @@
+[
+{
+  "directory": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/build",
+  "command": "/usr/bin/gcc  -I/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/include  -g   -o CMakeFiles/test4acados.dir/src/acados_sim_solver_bicycle_model.c.o   -c /home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/acados_sim_solver_bicycle_model.c",
+  "file": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/acados_sim_solver_bicycle_model.c"
+},
+{
+  "directory": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/build",
+  "command": "/usr/bin/gcc  -I/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/include  -g   -o CMakeFiles/test4acados.dir/src/acados_sim_solver_sfunction_bicycle_model.c.o   -c /home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/acados_sim_solver_sfunction_bicycle_model.c",
+  "file": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/acados_sim_solver_sfunction_bicycle_model.c"
+},
+{
+  "directory": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/build",
+  "command": "/usr/bin/gcc  -I/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/include  -g   -o CMakeFiles/test4acados.dir/src/acados_solver_bicycle_model.c.o   -c /home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/acados_solver_bicycle_model.c",
+  "file": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/acados_solver_bicycle_model.c"
+},
+{
+  "directory": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/build",
+  "command": "/usr/bin/gcc  -I/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/include  -g   -o CMakeFiles/test4acados.dir/src/acados_solver_sfunction_bicycle_model.c.o   -c /home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/acados_solver_sfunction_bicycle_model.c",
+  "file": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/acados_solver_sfunction_bicycle_model.c"
+},
+{
+  "directory": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/build",
+  "command": "/usr/bin/gcc  -I/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/include  -g   -o CMakeFiles/test4acados.dir/src/bicycle_model_constr_h_fun.c.o   -c /home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/bicycle_model_constr_h_fun.c",
+  "file": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/bicycle_model_constr_h_fun.c"
+},
+{
+  "directory": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/build",
+  "command": "/usr/bin/gcc  -I/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/include  -g   -o CMakeFiles/test4acados.dir/src/bicycle_model_constr_h_fun_jac_uxt_zt.c.o   -c /home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/bicycle_model_constr_h_fun_jac_uxt_zt.c",
+  "file": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/bicycle_model_constr_h_fun_jac_uxt_zt.c"
+},
+{
+  "directory": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/build",
+  "command": "/usr/bin/gcc  -I/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/include  -g   -o CMakeFiles/test4acados.dir/src/bicycle_model_constr_h_fun_jac_uxt_zt_hess.c.o   -c /home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/bicycle_model_constr_h_fun_jac_uxt_zt_hess.c",
+  "file": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/bicycle_model_constr_h_fun_jac_uxt_zt_hess.c"
+},
+{
+  "directory": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/build",
+  "command": "/usr/bin/gcc  -I/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/include  -g   -o CMakeFiles/test4acados.dir/src/bicycle_model_expl_ode_fun.c.o   -c /home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/bicycle_model_expl_ode_fun.c",
+  "file": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/bicycle_model_expl_ode_fun.c"
+},
+{
+  "directory": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/build",
+  "command": "/usr/bin/gcc  -I/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/include  -g   -o CMakeFiles/test4acados.dir/src/bicycle_model_expl_ode_hess.c.o   -c /home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/bicycle_model_expl_ode_hess.c",
+  "file": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/bicycle_model_expl_ode_hess.c"
+},
+{
+  "directory": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/build",
+  "command": "/usr/bin/gcc  -I/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/include  -g   -o CMakeFiles/test4acados.dir/src/bicycle_model_expl_vde_adj.c.o   -c /home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/bicycle_model_expl_vde_adj.c",
+  "file": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/bicycle_model_expl_vde_adj.c"
+},
+{
+  "directory": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/build",
+  "command": "/usr/bin/gcc  -I/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/include  -g   -o CMakeFiles/test4acados.dir/src/bicycle_model_expl_vde_forw.c.o   -c /home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/bicycle_model_expl_vde_forw.c",
+  "file": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/bicycle_model_expl_vde_forw.c"
+},
+{
+  "directory": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/build",
+  "command": "/usr/bin/gcc  -I/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/include  -g   -o CMakeFiles/test4acados.dir/src/ert_main.c.o   -c /home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/ert_main.c",
+  "file": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/ert_main.c"
+},
+{
+  "directory": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/build",
+  "command": "/usr/bin/gcc  -I/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/include  -g   -o CMakeFiles/test4acados.dir/src/rtGetInf.c.o   -c /home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/rtGetInf.c",
+  "file": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/rtGetInf.c"
+},
+{
+  "directory": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/build",
+  "command": "/usr/bin/gcc  -I/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/include  -g   -o CMakeFiles/test4acados.dir/src/rtGetNaN.c.o   -c /home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/rtGetNaN.c",
+  "file": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/rtGetNaN.c"
+},
+{
+  "directory": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/build",
+  "command": "/usr/bin/gcc  -I/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/include  -g   -o CMakeFiles/test4acados.dir/src/rt_matrx.c.o   -c /home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/rt_matrx.c",
+  "file": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/rt_matrx.c"
+},
+{
+  "directory": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/build",
+  "command": "/usr/bin/gcc  -I/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/include  -g   -o CMakeFiles/test4acados.dir/src/rt_nonfinite.c.o   -c /home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/rt_nonfinite.c",
+  "file": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/rt_nonfinite.c"
+},
+{
+  "directory": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/build",
+  "command": "/usr/bin/gcc  -I/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/include  -g   -o CMakeFiles/test4acados.dir/src/rt_printf.c.o   -c /home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/rt_printf.c",
+  "file": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/rt_printf.c"
+},
+{
+  "directory": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/build",
+  "command": "/usr/bin/gcc  -I/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/include  -g   -o CMakeFiles/test4acados.dir/src/simulink_model_closedloop.c.o   -c /home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/simulink_model_closedloop.c",
+  "file": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/simulink_model_closedloop.c"
+},
+{
+  "directory": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/build",
+  "command": "/usr/bin/gcc  -I/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/include  -g   -o CMakeFiles/test4acados.dir/src/simulink_model_closedloop_data.c.o   -c /home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/simulink_model_closedloop_data.c",
+  "file": "/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/src/simulink_model_closedloop_data.c"
+}
+]

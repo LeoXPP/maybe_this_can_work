@@ -1,0 +1,3 @@
+/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/build/CMakeFiles/rebuild_cache.dir
+/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/build/CMakeFiles/test4acados.dir
+/home/xie/桌面/VISCODE_with_CMAKE_Final/maybe_this_can_work/build/CMakeFiles/edit_cache.dir

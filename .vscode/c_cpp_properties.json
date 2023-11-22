@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "linux",
+            "includePath": [
+                "/home/xie/桌面/this_is_working4CMAKE/maybe_this_can_work/src",
+                "/home/xie/桌面/this_is_working4CMAKE/maybe_this_can_work/include"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c99",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "windows-msvc-x64"
+        }
+    ],
+    "version": 4
+}
